@@ -1,6 +1,6 @@
 # Baganator Unofficial Tweaks
 
-![](url)
+![](https://media.forgecdn.net/attachments/1499/532/settings-png.png)
 
 This is a simple addon that can be opened via /but or by opening the Baganator settings, allowing you to change the font that Baganator uses as well as sync the Bag Ignored Slots for sorting across all your characters.
 
