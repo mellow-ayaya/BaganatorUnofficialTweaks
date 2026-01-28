@@ -1,0 +1,5 @@
+package-as: BaganatorUnofficialTweaks
+manual-changelog: CHANGELOG.md
+ignore:
+  - README.md
+  - Promo

@@ -9,7 +9,7 @@
 ## SavedVariables: BaganatorUnofficialTweaksDB
 
 ## X-License: GNU General Public License version 3 (GPLv3)
-
+## X-Curse-Project-ID: 1447187
 
 # Core
 Core.lua
