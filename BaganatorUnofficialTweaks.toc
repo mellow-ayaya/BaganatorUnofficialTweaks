@@ -1,0 +1,22 @@
+## Interface: 120000
+## Title: Baganator Unofficial Tweaks
+## Author: mellow_ayaya
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\BaganatorUnofficialTweaks\icon.tga
+## Notes: Allows changing fonts and makes the ignored bag slots for sorting account wide.
+## RequiredDeps: Baganator
+## OptionalDeps: LibStub, LibSharedMedia-3.0, Ace3
+## SavedVariables: BaganatorUnofficialTweaksDB
+
+## X-License: GNU General Public License version 3 (GPLv3)
+
+
+# Core
+Core.lua
+
+# Modules
+Modules/FontModule.lua
+Modules/IgnoreSlotsModule.lua
+
+# Options
+Options.lua
