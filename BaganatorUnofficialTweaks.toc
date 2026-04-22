@@ -1,7 +1,7 @@
-## Interface: 120001
+## Interface: 120005
 ## Title: Baganator Unofficial Tweaks
 ## Author: mellow_ayaya
-## Version: 1.0.2
+## Version: 1.0.3
 ## IconTexture: Interface\AddOns\BaganatorUnofficialTweaks\icon.tga
 ## Notes: Allows changing fonts and makes the ignored bag slots for sorting account wide.
 ## RequiredDeps: Baganator
